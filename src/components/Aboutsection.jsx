@@ -23,7 +23,7 @@ const Aboutsection = () => {
               {/* Inner Border + Image */}
               <div className="relative   p-3 ">
                 <img
-                  src="./public/profile.png"
+                  src="./profile.png"
                   alt="Profile"
                   className="rounded-xl w-56 h-56 md:w-64 md:h-64 object-cover shadow-xl animate-pulse-subtle"
                 />
