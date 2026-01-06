@@ -56,8 +56,8 @@ const Projectsection = () => {
             description : "A beautiful movie website with Imdb api.",
             image : '/projects/movieflix.png',
             tags : ['React','Tailwind'],
-            demoUrl: "http://senodagarment.com/about-us",
-            githubUrl: "#",
+            demoUrl: "https://movie-ruddy-zeta.vercel.app/",
+            githubUrl: "https://github.com/MoeZuneThway/Movie",
         }, {
             id : 7,
             title : "Recipe Searcher",
@@ -65,7 +65,16 @@ const Projectsection = () => {
             image : '/projects/recipe searcher.png',
             tags : ['React','Tailwind'],
             demoUrl: "https://food-recipe-project-xi.vercel.app/",
-            githubUrl: "#",
+            githubUrl: "https://github.com/MoeZuneThway/food-recipe-project",
+        },
+        {
+            id : 8,
+            title : "Edu Xplore",
+            description : "A fully functional ecommerce-like website created for university coursework.",
+            image : '/projects/eduxplorepng',
+            tags : ['Vue.js','Express.js','Node.js','Mongodb','Bootstrap'],
+            demoUrl: "https://vuejs-app-ten.vercel.app/",
+            githubUrl: "https://github.com/MoeZuneThway/Vuejs-App",
         },
     ];
   return (
