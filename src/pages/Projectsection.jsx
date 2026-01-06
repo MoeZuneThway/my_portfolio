@@ -58,6 +58,14 @@ const Projectsection = () => {
             tags : ['React','Tailwind'],
             demoUrl: "http://senodagarment.com/about-us",
             githubUrl: "#",
+        }, {
+            id : 7,
+            title : "Recipe Searcher",
+            description : "A recipe searcher using api.",
+            image : '/projects/recipe searcher.png',
+            tags : ['React','Tailwind'],
+            demoUrl: "https://food-recipe-project-xi.vercel.app/",
+            githubUrl: "#",
         },
     ];
   return (
