@@ -71,7 +71,7 @@ const Projectsection = () => {
             id : 8,
             title : "Edu Xplore",
             description : "A fully functional ecommerce-like website created for university coursework.",
-            image : '/projects/eduxplorepng',
+            image : '/projects/eduxplore.png',
             tags : ['Vue.js','Express.js','Node.js','Mongodb','Bootstrap'],
             demoUrl: "https://vuejs-app-ten.vercel.app/",
             githubUrl: "https://github.com/MoeZuneThway/Vuejs-App",
