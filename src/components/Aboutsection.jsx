@@ -37,7 +37,7 @@ const Aboutsection = () => {
               </a>
 
               <a
-                href="./public/Moe_Zune_Thway_Software_Developer_CV_with_Lines.docx" download target="_blank"
+                href="/Moe_Zune_Thway_Software_Developer_CV_with_Lines.docx" download target="_blank"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/20 transition-colors duration-300"
               >
                 Download CV
