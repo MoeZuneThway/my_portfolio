@@ -53,10 +53,10 @@ const Projectsection = () => {
          {
             id : 6,
             title : "Movieflix",
-            description : "A beautiful movie website with Imdb api.",
+            description : "A beautiful MERN movie website with real-time trending section whenever user views the movie.",
             image : '/projects/movieflix.png',
-            tags : ['React','Tailwind'],
-            demoUrl: "https://movie-ruddy-zeta.vercel.app/",
+            tags : ['React','Tailwind','Node.js','Express.js','Mongodb'],
+            demoUrl: "https://movie-delta-livid.vercel.app/",
             githubUrl: "https://github.com/MoeZuneThway/Movie",
         }, {
             id : 7,
